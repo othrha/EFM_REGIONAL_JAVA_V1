@@ -1,0 +1,8 @@
+Exercice 1:
+1.Vrai
+2.Vrai
+
+Exercice 2:
+1.Non, cd est une commande de systeme qui permet de naviguer dans les repertoires.
+2.git fetch permet de télécharge uniquement les modifications effectuées dans le référentiel distant vers le référentiel local, sans les fusionner automatiquement avec les modifications locales. Ainsi git pull permet de télécharger les modifications du référentiel distant et les fusionne automatiquement avec les modifications locales.
+3.git merge permet de sélectionner les lignes de développement indépendantes créées avec git branch et de les intégrer à une seule branche.
